@@ -2,7 +2,9 @@
 
 # CIT Portfolio
 ![CIT Picture](images/compsci.jpg)
-This Portfolio includes all of my completed course work in the University of Oregon Computer Information Technology Minor. 
+This Portfolio includes all of my completed course work in the University of Oregon Computer Information Technology Minor. Below is a link to my most recent projected completed in CIT 281.
+
+[Dogs-api Project](https://uo-cit.github.io/project-4-shannonzbylski/)
 
 # My CIT Projects
 1. CIS 110 Projects
