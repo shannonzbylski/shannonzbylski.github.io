@@ -1,8 +1,7 @@
-
+![CIT Picture](https://pixabay.com/en/photos/computer%20science/)
 
 # CIT Portfolio
 
-![CIT Picture](https://pixabay.com/en/photos/computer%20science/)
 
 
 # My CIT Projects
