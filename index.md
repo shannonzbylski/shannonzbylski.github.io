@@ -1,7 +1,7 @@
 
 
 # CIT Portfolio
-![CIT Picture](https://github.com/shannonzbylski/shannonzbylski.github.io/blob/master/images/compsci.jpg)
+![CIT Picture](images/compsci.jpg)
 
 
 # My CIT Projects
