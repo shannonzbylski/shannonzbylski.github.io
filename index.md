@@ -1,4 +1,8 @@
-
+[P1 Project Page](https://github.com/UO-CIT/project-1-shannonzbylski)
+[P2 Project Page](https://github.com/UO-CIT/project-2-shannonzbylski)
+[P3 Project Page](https://github.com/UO-CIT/project-3-shannonzbylski)
+[P4 Project Page](https://github.com/UO-CIT/project-4-shannonzbylski)
+[P5 Project Page](https://github.com/UO-CIT/project-5-shannonzbylski)
 
 
 # CIT Portfolio
