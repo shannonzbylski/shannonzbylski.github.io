@@ -2,7 +2,7 @@
 
 # CIT Portfolio
 ![CIT Picture](images/compsci.jpg)
-
+This Portfolio includes all of my completed course work in the University of Oregon Computer Information Technology Minor. 
 
 # My CIT Projects
 1. CIS 110 Projects
